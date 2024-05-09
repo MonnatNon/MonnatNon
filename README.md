@@ -23,5 +23,5 @@ I've been learning web programming language for 4 years
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MonnatNon"><img src="https://github-readme-stats.vercel.app/api?username=MonnatNon&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="MonnatNon's GitHub stats" /></a>
-<a href="https://github.com/MonnatNon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonnatNon&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/MonnatNon"><img src="https://github-readme-stats.vercel.app/api?username=MonnatNon&show_icons=true&hide=&count_private=true&title_color=000000&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="MonnatNon's GitHub stats" /></a>
+<a href="https://github.com/MonnatNon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonnatNon&langs_count=10&title_color=000000&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
