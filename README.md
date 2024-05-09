@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monnat Saenton ======================================================================================================================================  Web developer and Design ------------------------  I've been learning web programming language for 4 years  
 * 🌍  I'm based in Bangkok, Thailand
-* * ✉️  You can contact me at [capital\_non@hotmail.com](mailto:capital_non@hotmail.com)
-* * 🧠  I'm learning React.js and C# (.net)
+* ✉️  You can contact me at [capital\_non@hotmail.com](mailto:capital_non@hotmail.com)
+* 🧠  I'm learning React.js and C# (.net)
 
 ### Skills  
 
